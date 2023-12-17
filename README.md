@@ -30,4 +30,7 @@ Bu proje, trafikte tehlikeli ve yasa dışı makas atma hareketlerini tespit etm
 + Bu proje, temel bir prototip olup, gerçek dünya koşullarında daha fazla test ve geliştirmeye ihtiyaç duyar.
 + MPU6050 sensöründen gelen veriler, gerçek trafik koşullarında makas atma hareketlerini tespit etmek için daha karmaşık algoritmalar gerektirebilir.
 + Projenin güvenilirliğini ve doğruluğunu artırmak için ek sensörler ve gelişmiş veri işleme teknikleri üzerinde çalışılabilir.
+## Ekip
+Ekibimiz; Doruk Aydoğan, TED Üniversitesi Yazılım Mühendisliği son sınıf öğrencisi; Yücel Çimtay, Dr. Öğr. Üyesi, TED Üniversitesi Bilgisayar Mühendisliği Bölümü öğretim üyesi; ve Ece Selin Adıgüzel, TED Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisi olarak, trafikte makas atma gibi riskli sürüş davranışlarını tespit edebilecek teknolojik çözümler geliştirmek için kendi alanlarımızdaki bilgi ve deneyimleri birleştirdik.
+
 Projemizin başarılı bir şekilde geliştirilmesi ve uygulanması için emek veren herkese teşekkür ederiz. Bu projeye katkıda bulunmak ve geliştirmeye yardımcı olmak isteyenler projenin GitHub sayfasını ziyaret edebilirler.
