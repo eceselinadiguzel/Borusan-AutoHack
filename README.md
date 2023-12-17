@@ -18,7 +18,7 @@ Bu proje, trafikte tehlikeli ve yasa dışı makas atma hareketlerini tespit etm
 + Python'un en son sürümünü Python'un resmi web sitesinden indirip kurun.
 + Gerekli Python kütüphanelerini kurmak için terminal veya komut istemcisinde şu komutu çalıştırın:
 `pip install matplotlib`
-+ Arduino Ortamının Kurulumu
+### Arduino Ortamının Kurulumu
 + Arduino IDE'yi indirip kurun.
 + Arduino'yu bilgisayarınıza bağlayın ve Arduino IDE'de doğru portu seçin.
 + MPU6050 ivmeölçer sensörünü ve buzzer'ı Arduino'ya bağlayın.
